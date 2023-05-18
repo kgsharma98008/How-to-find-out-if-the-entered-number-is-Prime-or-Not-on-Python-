@@ -1,0 +1,1 @@
+# How-to-find-out-if-the-entered-number-is-Prime-or-Not-on-Python-
